@@ -47,3 +47,8 @@ This is an educational, low-fidelity model. It does not solve computational flui
 - [ ] Compare multiple airfoil models
 - [ ] Add a drag polar chart
 - [ ] Add aircraft mass and a simple climb/performance estimate
+
+
+## Setup guides
+
+- [Phone and PC setup tutorial](PHONE_AND_PC_TUTORIAL.md): download the project, keep the files in the right folders, and run AeroSim on Android or a computer.
